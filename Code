@@ -1,4 +1,4 @@
-/* Week-3 
+/* Week-3 Practice Quiz
 /* Q.1 How many albums does the artist Led Zeppelin have?
 SELECT COUNT(*) 
 FROM (SELECT *
